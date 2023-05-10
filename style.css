@@ -1,0 +1,110 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Indie+Flower&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,800;1,900&family=Unbounded:wght@200;300;400;500;600;700;800;900&display=swap');
+h1:hover{
+    transform: rotateY(30deg);
+    cursor: pointer;
+}
+.nav-font {
+    font-family: 'DynaPuff', cursive;
+}
+.nav-link:hover{
+    transform: rotate(5deg);
+    cursor: pointer;
+}
+.navbar-name:hover {
+    transform: rotateY(30deg);
+    cursor: pointer;
+}
+
+
+.resimSlider {
+    height: 750px;
+    width: 100%;
+}
+.about {
+    background-color: rgb(235, 213, 216);
+}
+.about-sep {
+    border: none;
+    border: 2px solid rgb(179, 40, 40);
+    max-width: 250px;
+    margin: 25px auto;
+}
+.i-pink {
+    color: rgb(6, 1, 1);
+    position: relative;
+    top: -65px;
+    font-size: 42px;
+    border: 10px solid rgb(235, 213, 216);
+    background-color:rgb(235, 213, 216);
+}
+.i-pink:hover {
+    transform: rotate(-50deg);
+    cursor: pointer;
+}
+
+.container {
+    font-family: 'DynaPuff', cursive;
+    font-weight: lighter;
+}
+.container h1{
+    color: rgb(179, 40, 40);
+}
+.menu {
+    background-color: rgb(244, 231, 214);
+}
+.i-somon {
+    color: rgb(6, 1, 1);
+    position: relative;
+    top: -65px;
+    font-size: 42px;
+    border: 10px solid rgb(244, 231, 214);
+    background-color:rgb(244, 231, 214);
+}
+.i-somon:hover {
+    transform: rotate(150deg);
+    cursor: pointer;
+
+}
+.gallery {
+    background-color: rgb(226, 247, 240);
+}
+.i-green {
+    color: rgb(6, 1, 1);
+    position: relative;
+    top: -65px;
+    font-size: 42px;
+    border: 10px solid rgb(226, 247, 240);
+    background-color:rgb(226, 247, 240);
+}
+.i-green:hover {
+    transform: rotate(50deg);
+    cursor: pointer;
+}
+.figure:hover {
+    opacity: 0.8;
+}
+.contact {
+    background-color: rgb(248, 242, 232);
+}
+
+.contact form {
+    margin-left: 90px;
+}
+.i-gray {
+    color: rgb(6, 1, 1);
+    position: relative;
+    top: -65px;
+    font-size: 42px;
+    border: 10px solid  rgb(248, 242, 232);
+    background-color: rgb(248, 242, 232);
+}
+.i-gray:hover {
+    transform: rotate(60deg);
+    cursor: pointer;
+}
+.card:hover {
+    transform: rotate(2deg);
+    cursor: pointer;
+    opacity: 0.7;
+}
